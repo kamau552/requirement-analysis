@@ -47,6 +47,8 @@ These define how the system should behave.
 
 Use Case Diagrams help visualize the interaction between users (actors) and the system. They are useful in identifying functional requirements.
 
+Use case diagram Example
+
    ![Use case Diagram-Page-1 drawio](https://github.com/user-attachments/assets/449875b7-b673-4b8b-ac96-ab1bb4f8f67d)
  
 
