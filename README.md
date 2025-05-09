@@ -49,8 +49,8 @@ Use Case Diagrams help visualize the interaction between users (actors) and the 
 
 Use case diagram Example
 
-![Use Case Diagram](![alx-booking-uc (1)](https://github.com/user-attachments/assets/28284550-09e1-4328-abe1-b2f66ccfa1df)
-)
+(![alx-booking-uc (1)](https://github.com/user-attachments/assets/28284550-09e1-4328-abe1-b2f66ccfa1df)
+
   
  
 
