@@ -47,8 +47,8 @@ These define how the system should behave.
 
 Use Case Diagrams help visualize the interaction between users (actors) and the system. They are useful in identifying functional requirements.
 
-![Use case Diagram-Page-1 drawio](https://github.com/user-attachments/assets/449875b7-b673-4b8b-ac96-ab1bb4f8f67d)
- Diagram](alx-booking-uc.png)
+   ![Use case Diagram-Page-1 drawio](https://github.com/user-attachments/assets/449875b7-b673-4b8b-ac96-ab1bb4f8f67d)
+ 
 
 ## Acceptance Criteria
 
