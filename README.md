@@ -49,7 +49,8 @@ Use Case Diagrams help visualize the interaction between users (actors) and the 
 
 Use case diagram Example
 
-   ![Use case Diagram-Page-1 drawio](https://github.com/user-attachments/assets/449875b7-b673-4b8b-ac96-ab1bb4f8f67d)
+   ![Use case Diagram-Page-1 drawio](![alx-booking-uc](https://github.com/user-attachments/assets/b363944c-e32e-4315-a838-2acb56829a68)
+)
  
 
 ## Acceptance Criteria
