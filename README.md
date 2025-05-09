@@ -47,7 +47,7 @@ These define how the system should behave.
 
 Use Case Diagrams help visualize the interaction between users (actors) and the system. They are useful in identifying functional requirements.
 
-![Use Case Diagram](alx-booking-uc(1).png)
+![Use Case Diagram](alx-booking-uc.png)
 
 ## Acceptance Criteria
 
